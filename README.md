@@ -1,4 +1,5 @@
-### Hi there 👋
+### Estudainte de Ingenieria en Sistemas de Informacion
+### Universidad Tecnologica Nacional - Regional Rosario
 
 <!--
 **PeposoElOso/PeposoElOso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
